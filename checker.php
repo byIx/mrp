@@ -1,1 +1,1 @@
-{ "version":"1.0.0", "longversion":10000, "released":1658182200, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2686-k4-member-rank-progress\/" }
+{ "version":"1.0.1", "longversion":10100, "released":1658242800, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2686-k4-member-rank-progress\/" }
